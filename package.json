@@ -1,0 +1,5 @@
+{
+  "name": "budget",
+  "private": true,
+  "dependencies": { "mongodb": "^6.10.0" }
+}
